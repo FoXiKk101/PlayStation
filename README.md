@@ -1,2 +1,2 @@
-# PlayStation
-Repository for PlayStation website
+# AppleJuice
+Repository for AppleJuice market
